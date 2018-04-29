@@ -24,5 +24,8 @@ Then you can run your app.
 ruby app.rb
 ```
 
+## 🎮 Tutorial
+For a detailed step-by-step process on how to do this, visit https://developers.messagemedia.com/devguides/appointment-reminders-using-the-messages-api
+
 ## 📃 License
 Apache License. See the [LICENSE](LICENSE) file.
