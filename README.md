@@ -10,9 +10,16 @@ Start-up code on how to on how to use the Messages API to send messages, check/c
 ```javascript
 // clone this repository
 git@github.com:messagemedia/messaging-ruby-tutorial.git
+// change to folder
+cd lookups-nodejs-tutorial
 ```
 
-Next you will need to sign up for a MessageMedia Developers account, get your API credentials and put them in the index.js file. Then you can run your app.
+Next you will need to sign up for a MessageMedia Developers account, get your API credentials and put them in the app.js file. Next, install the dependency.
+```
+gem install messagemedia_messages_sdk
+```
+
+Then you can run your app.
 ```
 ruby app.rb
 ```
